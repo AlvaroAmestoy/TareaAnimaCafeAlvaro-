@@ -1,0 +1,35 @@
+.tableProduct {
+    border: 1px solid #0ff;
+    padding: 1rem;
+    margin: 2rem;
+    box-sizing: border-box;
+    background-color: #001;
+    color: #0ff;
+    text-shadow: 0 0 5px #0ff, 0 0 10px #0ff;
+}  
+
+.tableProduct h2 {
+    text-align: center;
+    margin-top: 2rem;
+}  
+
+.tableProduct table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 2rem;
+}  
+
+.tableProduct th, .tableProduct td {
+    border: 1px solid #0ff;
+    padding: 10px;
+    text-shadow: 0 0 5px #0ff, 0 0 10px #0ff;
+}
+
+.tableProduct th {
+    background-color: #001;
+}
+
+.tableProduct td {
+    color: #f0f;
+    text-shadow: 0 0 5px #f0f, 0 0 10px #f0f;
+}
